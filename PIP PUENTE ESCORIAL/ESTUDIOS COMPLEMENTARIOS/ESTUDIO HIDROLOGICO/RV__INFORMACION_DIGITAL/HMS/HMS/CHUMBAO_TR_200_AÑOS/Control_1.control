@@ -1,0 +1,15 @@
+Control: Control 1
+     Description: CONTROL
+     Last Modified Date: 26 December 2019
+     Last Modified Time: 14:50:14
+     Version: 4.2.1
+     Time Zone ID: America/Bogota
+     Time Zone GMT Offset: -18000000
+     Start Date: 31 January 2000
+     Start Time: 24:00
+     End Date: 2 February 2000
+     End Time: 24:00
+     Time Interval: 120
+     Grid Write Interval: 120
+     Grid Write Time Shift: 0
+End:
